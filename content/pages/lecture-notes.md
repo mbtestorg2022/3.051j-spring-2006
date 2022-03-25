@@ -74,7 +74,7 @@ Hydrolysis (Dr. Taniguchi) ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture4_2)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-_Protein-Surface Interactions_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture5))  
+_Protein-Surface Interactions_ ([PDF]({{< baseurl >}}/resources/lecture5))  
   
 Proteins: Structure, Properties, Functions  
   
@@ -161,7 +161,7 @@ In Vacuum: XPS/ESCA, AES, SIMS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-_Surface Characterization In situ_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture12))  
+_Surface Characterization In situ_ ([PDF]({{< baseurl >}}/resources/lecture12))  
   
 Contact Angle, AFM
 {{< tdclose >}}
