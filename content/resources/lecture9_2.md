@@ -6,6 +6,7 @@ description: This resource contain purpose, objectives, preparation of non-fouli
   and summary about biomedical applications.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-051j-materials-for-biomedical-applications-spring-2006/9dc719a035fcc0b1d8c43fc23b7162c0_lecture9_2.pdf
 file_type: application/pdf
+parent_uid: 53ba227b-0277-d751-a0dd-ffc8768dbc65
 resourcetype: Document
 title: lecture9_2.pdf
 uid: 9dc719a0-35fc-c0b1-d8c4-3fc23b7162c0
